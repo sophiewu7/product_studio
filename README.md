@@ -1,1 +1,4 @@
-# product_studio
+# Product Studio Team 7
+
+Prototype
+
